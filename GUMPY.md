@@ -1,4 +1,4 @@
-GUMPy
+GUMPy such an informational page
 =====
 
 Author: Ian Korf
